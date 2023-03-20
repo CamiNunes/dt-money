@@ -1,44 +1,68 @@
 {
   "transactions": [
     {
-      "id":1,
+      "id": 1,
       "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
       "price": 14000,
-      "createdAt": "2023-03-19T16:02:45.406Z" 
+      "createdAt": "2023-03-19T16:02:45.406Z"
     },
     {
-      "id":2,
+      "id": 2,
       "description": "Hamburguer",
       "type": "outcome",
       "category": "Alimentação",
-      "price": 45.90,
-      "createdAt": "2023-03-19T16:04:20.378Z" 
+      "price": 45.9,
+      "createdAt": "2023-03-19T16:04:20.378Z"
     },
     {
-      "id":3,
+      "id": 3,
       "description": "Salário",
       "type": "income",
       "category": "Salário",
-      "price": 6302.50,
-      "createdAt": "2023-03-19T16:04:20.378Z" 
+      "price": 6302.5,
+      "createdAt": "2023-03-19T16:04:20.378Z"
     },
     {
-      "id":4,
+      "id": 4,
       "description": "Almoço",
       "type": "outcome",
       "category": "Alimentação",
-      "price": 32.60,
-      "createdAt": "2023-03-19T16:04:20.378Z" 
+      "price": 32.6,
+      "createdAt": "2023-03-19T16:04:20.378Z"
     },
     {
-      "id":5,
+      "id": 5,
       "description": "Gasolina",
       "type": "outcome",
       "category": "Carro",
       "price": 150,
-      "createdAt": "2023-03-19T16:04:20.378Z" 
+      "createdAt": "2023-03-19T16:04:20.378Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 15000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-03-20T01:07:25.765Z",
+      "id": 6
+    },
+    {
+      "description": "Compra de Monitor",
+      "price": 1100,
+      "category": "Trabalho",
+      "type": "outcome",
+      "createdAt": "2023-03-20T01:09:59.427Z",
+      "id": 7
+    },
+    {
+      "description": "Starbucks",
+      "price": 23,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-03-20T01:33:41.545Z",
+      "id": 8
     }
   ]
 }
